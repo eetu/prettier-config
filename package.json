@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for Node projects",
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": ">= 3"
+  }
+}
